@@ -216,4 +216,12 @@
 .search-manufacturer__option {
   @apply cursor-default select-none py-2 pl-10 pr-4;
 }
+
+svg{
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  color: red;
+  display:inline-block;
+}
 /* END: search manufacturer styles */

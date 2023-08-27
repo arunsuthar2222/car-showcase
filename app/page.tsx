@@ -70,7 +70,7 @@ export default  function Home() {
             {
               loading && 
               <div className='mt-16 w-full flex-center'>
-                <Image src='/loader.svg'
+                <Image src='/loader.gif'
               alt='loader'
               width={50}
               height={50}
